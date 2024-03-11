@@ -22,3 +22,13 @@ To serve the dist folder with bundle files as in real production:
 ```
 npx serve dist
 ```
+
+To check for linting errors: 
+```
+npm run lint
+```
+
+To resolve linting errors automatically: 
+```
+npm run lint:fix
+```
