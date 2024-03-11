@@ -1,10 +1,10 @@
-import React from 'react';
+import React from 'react'
 import './Component.css'
 
 export const Component: React.FC = () => {
-    return(
+  return (
         <h1 className='component-title'>
-            I am a Component. 
+            I am a Component.
         </h1>
-    )
+  )
 }
